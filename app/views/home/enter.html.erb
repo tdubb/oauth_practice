@@ -1,0 +1,5 @@
+<%= @token.token %>
+<br>
+<%= @token.get("/api/user").parsed["id"] %>
+<br>
+<%= @token.get("/api/user").parsed %>
