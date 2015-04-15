@@ -22,7 +22,7 @@ gem 'devise'
 
 gem 'omniauth-oauth2', '~> 1.0.3'
 
-gem 'bootstrap'
+gem 'twitter-bootstrap-rails', '~> 2.2.8'
 
 gem "figaro", "~> 0.7.0"
 
